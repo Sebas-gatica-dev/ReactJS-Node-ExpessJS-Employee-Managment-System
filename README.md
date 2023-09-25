@@ -1,14 +1,8 @@
-# ReactJS-Node-ExpessJS-Employee-Managment-System
-Esta es un aplicacion aun en desarrollo, la cual es una plataforma administrativa, oprientada a gerentes de una empresa, en la que podran registrarse e ingresar a su propio perfil, 
-donde podran administrar los empleados que esten a su cargo, sus respectivos salarios y el estado del contrato de trabajo.
+ReactJS-Node-ExpressJS Employee Management System
+Esta es una aplicación aún en desarrollo, la cual es una plataforma administrativa orientada a gerentes de una empresa. En ella podrán registrarse e ingresar a su propio perfil, donde podrán administrar a los empleados que estén a su cargo, sus respectivos salarios y el estado del contrato de trabajo.
 
-##Fases de ddesarrollo:
-
-Actualmente este proyecto se encuentra en fase inicial, es decir, el codigo fuente del backend se aloja en un mismo archivo central, en la proxima fase debere estructurar a profundidad
-los diferentes directorios correpondientes a cada parte de la aplicacion.
-   Es urgente la mejora en la segura de la informacion respecto a la base de datos, en primera instancia deberan estar en variables de entorno, para luego ser encriptadas antes de 
-   alojadas en variables de entorno.
-Por eso la siuiente fase en el desarrollo del bakend, es la mejora en la seguridad basica del manejo de datos sensibles, lel desarrollo de testing inicial, estoencierra a lasprincipales rutas y metodos del controlador.
-En el font-end el siguiente paso, es la mejora en cuanto a la sofisticacion visual del diseño de la interfaz de usuario, y el desarrollo de los primeros test respectoa funcionalidades basicas del font-end.   
-
-
+Fases de desarrollo:
+Actualmente, este proyecto se encuentra en la fase inicial, es decir, el código fuente del backend se aloja en un mismo archivo central. En la próxima fase, deberé estructurar en profundidad los diferentes directorios correspondientes a cada parte de la aplicación.
+Es urgente mejorar la seguridad de la información respecto a la base de datos. En primera instancia, esta información deberá estar en variables de entorno para luego ser encriptada antes de ser alojada en dichas variables.
+Por eso, la siguiente fase en el desarrollo del backend consiste en mejorar la seguridad básica en el manejo de datos sensibles y en el desarrollo de pruebas iniciales, esto incluye a las principales rutas y métodos del controlador.
+En el frontend, el siguiente paso es mejorar la sofisticación visual del diseño de la interfaz de usuario y desarrollar las primeras pruebas respecto a funcionalidades básicas del frontend.
