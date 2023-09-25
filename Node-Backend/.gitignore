@@ -1,0 +1,6 @@
+# Ignorar archivos de registro
+*.env
+
+
+# Ignorar directorios generados por herramientas de construcción
+/node_modules/
